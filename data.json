@@ -1,0 +1,101 @@
+{
+    "Arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "250 Ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "250 Ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "250 Ml ",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "250 Ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Makanan": [
+        {
+            "foto": "https://i.pinimg.com/564x/19/31/ea/1931ea180f40e54e9d877a39d47e18bb.jpg",
+            "nama": "Roti Bakar",
+            "size": "1 Porsi",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/78/1a/b2/781ab20b733f8e7810e2b71f7af94aa9.jpg",
+            "nama": "Kentang Goreng",
+            "size": "1 Porsi",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/736x/6e/26/3d/6e263ddca2c2a52977f2369956231733.jpg",
+            "nama": "Batagor",
+            "size": "1 Porsi",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/b4/27/9a/b4279a9dc7fbe09c12a49d3ea98ca71c.jpg",
+            "nama": "Siomay",
+            "size": "1 Porsi",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Minuman": [
+        {
+            "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "nama": "Es Teh Manis",
+            "size": "250 Ml ",
+            "harga": "10.000",
+            "link": "https:shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "foto": "https://www.nescafe.com/sg/sites/default/files/2021-05/cappuccino-milkshake-nutrition-image.jpg",
+            "nama": "Moccachino MilkShake",
+            "size": "250 Ml ",
+            "harga": "17.000",
+            "link": "https:shopee.co.id/eaifjlesjfi"
+        },      
+        {
+            "foto": "https://www.dbdpowder.com/wp-content/uploads/2021/12/red-velvet-frappe.png",
+            "nama": "Red Velvet",
+            "size": "250 Ml ",
+            "harga": "14.000",
+            "link": "https:shopee.co.id/eaifjlesjfi"
+        },    
+        {
+            "foto": "https://kurio-img.kurioapps.com/21/09/17/0d229111-2db0-4031-bbf0-8756cc3e058f.jpe",
+            "nama": "Green Tea",
+            "size": "250 Ml ",
+            "harga": "13.000",
+            "link": "https:shopee.co.id/eaifjlesjfi"
+        }
+    ]  
+
+
+}
